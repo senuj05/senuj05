@@ -1,11 +1,10 @@
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-# Hi there, I'm Senuvi Jayasinghe 👋
+# Hi there, I'm **Senuvi Jayasinghe** 👋
 
 Welcome to my GitHub profile! Here’s a bit about me:
 
 ## About Me
 
-I’m currently pursuing a Bachelor’s degree in Computer Science and Statistics at the University of Illinois Urbana-Champaign. My passion lies in exploring the intersection of data science, machine learning, and web development. I have a strong foundation in Python, SQL, and R, and I’m constantly looking to expand my knowledge and skills in these areas.
+I’m currently pursuing a Bachelor’s degree in **Computer Science and Statistics** at the University of Illinois Urbana-Champaign. My passion lies in exploring the intersection of **data science, machine learning, and web development**. I have a strong foundation in **Python, SQL, and R**, and I’m constantly looking to expand my knowledge and skills in these areas.
 
 ### 🌱 I’m currently learning:
 - Machine Learning and Data Science techniques
@@ -25,8 +24,5 @@ I’m currently pursuing a Bachelor’s degree in Computer Science and Statistic
 - **Campus Safety Analysis Project**: Analyzing campus safety data to provide detailed and timely information to the UIUC community.
 
 ## 📫 How to reach me:
-- LinkedIn: [Senuvi Jayasinghe](https://www.linkedin.com/in/senuvi-jayasinghe-b537221a0)
-- Email: [senuj2@illinois.edu](mailto:senuj2@illinois.edu)
-
-
-</div>
+- **LinkedIn**: [Senuvi Jayasinghe](https://www.linkedin.com/in/senuvi-jayasinghe-b537221a0)
+- **Email**: [senuj2@illinois.edu](mailto:senuj2@illinois.edu)
