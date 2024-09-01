@@ -1,3 +1,4 @@
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 # Hi there, I'm Senuvi Jayasinghe 👋
 
 Welcome to my GitHub profile! Here’s a bit about me:
@@ -27,3 +28,5 @@ I’m currently pursuing a Bachelor’s degree in Computer Science and Statistic
 - LinkedIn: [Senuvi Jayasinghe](https://www.linkedin.com/in/senuvi-jayasinghe-b537221a0)
 - Email: [senuj2@illinois.edu](mailto:senuj2@illinois.edu)
 
+
+</div>
