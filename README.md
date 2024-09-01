@@ -1,5 +1,3 @@
----
-
 # Hi there, I'm Senuvi Jayasinghe 👋
 
 Welcome to my GitHub profile! Here’s a bit about me:
@@ -36,4 +34,3 @@ I love learning new languages and am currently studying Japanese! Additionally, 
 - LinkedIn: [Senuvi Jayasinghe](https://www.linkedin.com/in/senuvi-jayasinghe-b537221a0)
 - Email: [senuj2@illinois.edu](mailto:senuj2@illinois.edu)
 
----
