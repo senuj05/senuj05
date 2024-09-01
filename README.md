@@ -23,13 +23,6 @@ I’m currently pursuing a Bachelor’s degree in Computer Science and Statistic
 - **Real-Time Age and Gender Prediction Application**: A real-time application using OpenCV, TensorFlow, and pre-trained models for age and gender prediction.
 - **Campus Safety Analysis Project**: Analyzing campus safety data to provide detailed and timely information to the UIUC community.
 
-### 👯 I’m looking to collaborate on:
-- Open-source projects related to data science, machine learning, and web development.
-- Initiatives that aim to make impactful contributions to educational and non-profit sectors.
-
-### ⚡ Fun fact:
-I love learning new languages and am currently studying Japanese! Additionally, I am actively involved in the Sri Lankan Cultural Association at UIUC, serving as the Membership Director.
-
 ## 📫 How to reach me:
 - LinkedIn: [Senuvi Jayasinghe](https://www.linkedin.com/in/senuvi-jayasinghe-b537221a0)
 - Email: [senuj2@illinois.edu](mailto:senuj2@illinois.edu)
