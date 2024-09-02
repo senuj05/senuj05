@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 
 ## About Me
 
-I’m currently pursuing a Bachelor’s degree in **Computer Science and Statistics** at the University of Illinois Urbana-Champaign. My passion lies in exploring the intersection of **data science, machine learning, and web development**. I have a strong foundation in **Python, SQL, and R**, and I’m constantly looking to expand my knowledge and skills in these areas.
+I’m pursuing a Bachelor’s degree in Computer Science and Statistics at the University of Illinois Urbana-Champaign. My passion lies in exploring the intersection of data science, machine learning, and web development. I have experience in Python, SQL, and R, and I’m constantly looking to expand my knowledge and skills in these areas.
 
 ### 🌱 I’m currently learning:
 - Machine Learning and Data Science techniques
