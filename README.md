@@ -9,4 +9,4 @@ I’m pursuing a Bachelor’s degree in Statistics and Computer Science at the U
 
 ## 📫 How to reach me:
 - **LinkedIn**: [Senuvi Jayasinghe](https://www.linkedin.com/in/senuvi-jayasinghe-b537221a0)
-- **Email**: [senuj2@illinois.edu](mailto:senuj2@illinois.edu)
+- **Email**: [senuj2@illinois.edu](mailto:senuj2@illinois.edu) | [senu3105@gmail.com](mailto:senu3105@gmail.com)
